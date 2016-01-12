@@ -1,0 +1,1 @@
+sinaSSOController.updateCookieCallBack({"retcode":0});

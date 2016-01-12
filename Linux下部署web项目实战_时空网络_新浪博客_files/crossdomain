@@ -1,0 +1,1 @@
+window.sinaSSOController.doCrossDomainCallBack && sinaSSOController.doCrossDomainCallBack({"retcode":20000000,"msg":"","data":null});
